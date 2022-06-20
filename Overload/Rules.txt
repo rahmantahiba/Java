@@ -1,0 +1,5 @@
+1) A return type cannot be overloaded
+
+2) The parameters have to be the same type 
+
+3) When overloading static method the names of the parameters have to be different
