@@ -1,0 +1,7 @@
+The Three Requirements for Recursion 
+
+1) Base Case 
+
+2) Continution of the base case
+
+3) Calling the function
